@@ -205,5 +205,9 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Government forms are more than just tools for data collection, they reflect the value systems of the administrations that design and enforce them. Historically, many forms assumed binary gender categories ("male" and "female"), mirroring societal norms and legal definitions at the time. While one of the priorities of data collection is standardization and simplicity, such value systems often fail to represent diversity, and in this case, the various gender identities that may exist. The values embedded in these forms influence not only how people interact with the government but also how they are recognized as individuals. When the value system prioritizes rigid categorizations over inclusivity, it risks excluding or discriminating against those who don’t fit traditional definitions. This can impact access to resources, legal recognition, and societal inclusion. 
+
+An example of how value systems embedded in governance can lead to issues is reflected in recent actions within the United States. In recent years, there was progress toward inclusivity, including updates to official government forms that allowed for non-binary gender options and simplified processes for updating gender markers. These changes reflected a value system prioritizing equality, diversity, and recognition of individual identities.
+
+However, shifts in political leadership can significantly alter these value systems. For instance, with the recent change in administration, remarks were made asserting the belief on gender. This value system directly contrasts with the previous efforts toward inclusivity. Such statements, when embraced by those in power, signal a potential rollback of policies designed to accommodate diverse gender identities. These shifts could lead to government forms and systems being updated to reflect those value systems, effectively marginalizing non-binary and transgender individuals.
 ```
